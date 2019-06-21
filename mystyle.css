@@ -1,0 +1,54 @@
+header p{
+    color:rgb(101, 132, 226);
+    padding:1em;
+}
+p{
+           color:green;
+        margin:1px;
+        padding:1em;
+    }
+    h2{
+        color: blueviolet;
+    }
+
+header{
+    background-color:cornflowerblue;
+    height:15vh;
+    border-bottom: 3px solid crimson;
+    border-block-start-style: solid;
+}
+header h1{
+    color:red;
+   
+    padding:1em;
+}
+footer{color:green;
+    margin:5cm;   
+    background-color: bisque;
+    font-size: 3mm
+}
+.profilesection p{
+    color:brown;
+}
+.profilesection{
+    text-align:center;
+    background-image:url('../img1.jpg');
+    background-attachment: fixed;
+    font-size:1em;
+    height:100vh;
+    padding:1em;
+    }
+    h4{
+        color:red;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    header img{
+        
+        height:100px;
+        width: 120px;
+    }
+    img{
+        height:250px;
+        width: 250px;
+    }
+    
